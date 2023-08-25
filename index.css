@@ -68,7 +68,12 @@ body {
 }
 
 .searchBar {
-
+    display: flex;
+    justify-content: left;
+    width: 75px;
+    height: 50px;
+    align-content: center;
+    flex-wrap: wrap;
 }
 
 .primeLoot {
@@ -98,6 +103,13 @@ body {
 .profile {
 
 }
+
+input {
+    border-bottom-left-radius: 10%;
+    border-top-left-radius: 10%;
+    height: 30px;
+    width: 300px;
+} 
 
 .topnav {
     overflow: hidden;
