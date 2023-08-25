@@ -54,7 +54,13 @@ body {
 }
 
 .threeDots {
-
+    display: flex;
+    justify-content: left;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    margin: 10px;
+    margin-right: 30px;
 }
 
 .browse {
