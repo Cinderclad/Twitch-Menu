@@ -156,6 +156,9 @@ a {
   flex-wrap: wrap;
 }
 
+.pfp {
+  border-radius: 50px;
+}
 
 .mGlass {
     border-bottom-right-radius: 5px;
