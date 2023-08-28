@@ -78,19 +78,51 @@ body {
 }
 
 .primeLoot {
-
+  display: flex;
+  justify-content: left;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  margin: 10px;
+  margin-right: 30px;
+  align-items: center;
+  justify-content: center;
 }
 
 .notifications {
-
+  display: flex;
+  justify-content: left;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  margin: 10px;
+  margin-right: 30px;
+  align-items: center;
+  justify-content: center;
 }
 
 .whispers {
-
+  display: flex;
+  justify-content: left;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  margin: 10px;
+  margin-right: 30px;
+  align-items: center;
+  justify-content: center;
 }
 
 .bits {
-
+  display: flex;
+  justify-content: left;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  margin: 10px;
+  margin-right: 30px;
+  align-items: center;
+  justify-content: center;
 }
 
 .turbo {
