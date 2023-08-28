@@ -14,7 +14,6 @@ body {
     border-right: 1px;
     border-left: 1px;
     align-items: center;
-
 }
 
 .twitchIcon {
@@ -149,6 +148,7 @@ body {
     height: 35px;
     align-content: center;
     flex-wrap: wrap;
+    margin-right: 100px;
 }
 
 input {
