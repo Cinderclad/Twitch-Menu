@@ -125,11 +125,21 @@ body {
 }
 
 .turbo {
-
-}
-
-.battery {
-
+  display: flex;
+  justify-content: left;
+  width: 120px;
+  height: 20px;
+  align-content: center;
+  flex-wrap: wrap;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: #ededef;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
 }
 
 .profile {
